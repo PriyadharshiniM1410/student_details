@@ -1,0 +1,34 @@
+{
+"students":[
+    {
+      "student_id":101,
+      "student_name":"Priya",
+      "department":"computer science",
+      "year":3
+    },
+    {
+      "student_id":102,
+      "student_name":"Dharshini",
+      "department":"English",
+      "year":2
+    },
+    {
+    "student_id":103,
+    "student_name":"Riya",
+    "department":"Maths",
+    "year":3
+    },
+    {
+      "student_id":104,
+      "student_name":"Ramya",
+      "department":"computer science",
+      "year":3
+    },
+    {
+      "student_id":105,
+      "student_name":"Abinaya",
+      "department":"Maths",
+      "year":3
+    }
+  ]
+}   
